@@ -1,4 +1,4 @@
-- 👋 Hi, I’m melike
+- 👋 merhaba ben  melike
 - 👀 I'm interested in software
 - 🌱 🌱I'm currently a computer programming student.
 - 💞️  I want to collaborate because I think I have a lot to learn
